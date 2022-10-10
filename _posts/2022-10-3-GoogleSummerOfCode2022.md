@@ -4,7 +4,7 @@ title: Google Summer of Code 2022
 ---
 
 ## Introduction
-Through this work we present a C++ with R interface implementation of the [CRHMC](https://arxiv.org/abs/2202.01908) algorithm. This project was build through the Google Summer of Code program in [GeomScale](https://github.com/GeomScale/). Main goal for this problem was to implement the CRHMC in VolEsti with high performance. With this project now the VolEsti library has the capability to sample from large sparse polytopes. Previously all VolEsti random walks would process the constraint matrix in dense form. One can view the project Proposal [Here](https://summerofcode.withgoogle.com/proposals/details/sDta8y7e).
+Through this work we present a C++ with R interface implementation of the [CRHMC](https://arxiv.org/abs/2202.01908) algorithm. This project was build through the Google Summer of Code program in [GeomScale](https://github.com/GeomScale/). Main goal for this problem was to implement the CRHMC in VolEsti with high performance. With this project now the VolEsti library has the capability to sample from large sparse polytopes. Previously all VolEsti random walks would process the constraint matrix in dense form. One can view the project Proposal [Here](https://drive.google.com/file/d/1J8bB8NGenfVgE0LPNMQrGbHMNYfSI67-/view?usp=sharing).
 
 ## Bonding Period
  In the bonding period we had a number of meetings that helped me understand the goals of the program and the CRHMC algorithm. In one of the meetings I was asked to present the overall algorithm ([Slides](https://drive.google.com/file/d/1XIsnjAG8iBzgtsPHOd2-kCVKCclNC6Pr/view?usp=sharing)).
